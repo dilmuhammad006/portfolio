@@ -1,0 +1,28 @@
+body{
+    scroll-behavior: smooth;
+    background-color: #478c5c;
+    font-family: sans-serif;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+img{
+    width: 350px;
+    padding: 10px;
+    
+}
+.container{
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+
+}
+a{
+    color: white;
+    font-size: 25px;
+
+}
+a:hover{
+    color: black;
+}

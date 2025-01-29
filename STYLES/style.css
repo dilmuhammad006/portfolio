@@ -1,0 +1,100 @@
+@media (max-width: 768px) 
+{
+.container {
+flex-direction: column;
+text-align: center;
+}
+}
+body{
+    font-family: sans-serif;
+    background-color:  #478c5c;
+    color: white;
+    scroll-behavior: smooth;
+}
+.birinchi{
+    display: inline-block;
+} 
+.ikkinchi{
+    margin: 30px;
+    display: inline-block;
+}
+.rr{
+    border-radius: 10px;
+
+
+}
+.rr:hover{
+    width: 350px
+}
+.uchunchi{
+    display: inline-block;
+}
+img{
+    border-radius: 10px;
+
+}
+img:hover{
+    cursor: pointer;
+    width: 120px;
+}
+.bir{
+    display: inline-block;
+    margin: 10px;
+}
+.container{
+    justify-content: space-around;
+    text-align:center;
+
+}
+li{
+    text-align: left;
+}
+p:hover{
+    cursor: pointer;
+}
+.port{
+    display: inline-block;
+    font-size: 20px;
+
+}
+.port:hover{
+    font-size: 22px;
+
+}
+a{
+    padding: 20px;
+    font-size: 35px;
+    color: white;
+}
+a:hover{
+    font-size: 40px;
+    color: black;
+}
+.me{
+    font-style: italic;
+}
+button{
+    background-color: #478c5c;
+    border-radius: 10px;
+}
+.dd{
+    display: inline-block;
+    color:white;
+    text-decoration: none;
+    font-size: 20px;
+}
+.dd:hover{
+    font-size: 21px;
+    color:black;
+}
+a{
+    text-decoration: none;
+}
+footer{
+    align-items: center;
+    text-align: center;
+    justify-content: space-between;
+}
+nav{
+    display: inline-flex;
+}
